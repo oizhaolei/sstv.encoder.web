@@ -1,0 +1,17 @@
+{
+  "name": "sstv.encoder",
+  "version": "1.0.0",
+  "description": "sstv encoder web",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "log4js": "*",
+    "multer": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bundleDependencies": [],
+  "private": true,
+  "main": "app.js"
+}
